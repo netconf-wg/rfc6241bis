@@ -1,30 +1,4 @@
-# draft-ietf-netconf-rfc6241bis
-
-This repository is for the development of a IETF draft for the [NETCONF working group](http://datatracker.ietf.org/wg/netconf/charter/).
-
-Currently gathering issues and feature requests for NETCONF 1.2
-
-## Links
-
-* Mailing List: https://www.ietf.org/mailman/listinfo/netconf
-* Issue Tracking: https://github.com/netconf-wg/rfc6241bis/issues
-
-
-## Issue States
-
-The following labels are used in the issue tracker for issues
-in the "open" state:
-
-- NEW:  A submitted issue
-- OPEN: An accepted issue open to discussion
-- DEAD: A rejected issue closed to discussion
-- VERIFY: An open issue with a solution proposal that needs to be verified on the mailing list
-- EDIT: The issue is waiting for the document editor(s) to make the corresponding changes
-- REVIEW: The edits have been done and the updated I-D need to be reviewed
-- DONE: The edits have been reviewed and the issue has been resolved
-
-
-## Contributing
+# Contributing
 
 Before submitting feedback, please familiarize yourself with our current issues
 list and review the [working group home page](http://datatracker.ietf.org/wg/netconf/charter/). If you're new to this, you may also want to read the [Tao of the
@@ -41,11 +15,11 @@ meaning of the specification), you can either:
 
   a) Fork this repository and submit a pull request; this is the lowest
   friction way to get editorial changes in.
-
+  
   b) Submit a new issue to Github, and mention that you believe it is editorial
   in the issue body. It is not necessary to notify the mailing list for
   editorial issues.
-
+  
   c) Make comments on individual commits in Github. Note that this feedback is
   processed only with best effort by the editors, so it should only be used for
   quick editorial suggestions or questions.
@@ -69,22 +43,22 @@ are addressed to:
 
  * The IETF plenary session
  * The IESG, or any member thereof on behalf of the IESG
- * Any IETF mailing list, including the IETF list itself, any working group
+ * Any IETF mailing list, including the IETF list itself, any working group 
    or design team list, or any other list functioning under IETF auspices
  * Any IETF working group or portion thereof
  * Any Birds of a Feather (BOF) session
  * The IAB or any member thereof on behalf of the IAB
  * The RFC Editor or the Internet-Drafts function
- * All IETF Contributions are subject to the rules of
-   [RFC 5378](https://tools.ietf.org/html/rfc5378) and
-   [RFC 3979](https://tools.ietf.org/html/rfc3979)
+ * All IETF Contributions are subject to the rules of 
+   [RFC 5378](https://tools.ietf.org/html/rfc5378) and 
+   [RFC 3979](https://tools.ietf.org/html/rfc3979) 
    (updated by [RFC 4879](https://tools.ietf.org/html/rfc4879)).
 
 Statements made outside of an IETF session, mailing list or other function,
 that are clearly not intended to be input to an IETF activity, group or
 function, are not IETF Contributions in the context of this notice.
 
-Please consult [RFC 5378](https://tools.ietf.org/html/rfc5378) and [RFC
+Please consult [RFC 5378](https://tools.ietf.org/html/rfc5378) and [RFC 
 3979](https://tools.ietf.org/html/rfc3979) for details.
 
 A participant in any IETF activity is deemed to accept all IETF rules of
